@@ -1,6 +1,0 @@
-config OPLUS_MAGCVR_NOTIFY
-    tristate "magcvr notify"
-    help
-      Say Y here if you have touchscreen notify build into driver.
-      Say M here if you have touchscreen notify as module.
-
